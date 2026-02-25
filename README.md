@@ -1,4 +1,4 @@
-# Netflix Clone — Movie Application
+# Streamsphere — Movie Application
 
 <div align="center">
 
