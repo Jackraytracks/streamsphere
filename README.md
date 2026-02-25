@@ -33,10 +33,7 @@ A Netflix-inspired movie discovery app built with React 18, powered by the TMDB 
 ## Screenshots
 | Home Page | Movie Details | Search | Favorites |
 |-----------|--------------|--------|-----------|
-![home](<img width="1899" height="903" alt="Screenshot 2026-02-25 095223" src="https://github.com/user-attachments/assets/782e7212-c980-42da-b2c8-93e9ff41800c" />) | 
-![details](<img width="1898" height="905" alt="Screenshot 2026-02-25 095251" src="https://github.com/user-attachments/assets/afaf83d1-1f29-4753-9fb8-509911192387" />) | 
-![search](<img width="1896" height="898" alt="Screenshot 2026-02-25 095543" src="https://github.com/user-attachments/assets/641876a5-aee2-479c-a8e0-66761ae5f310" />) | 
-![favorites](<img width="1919" height="911" alt="Screenshot 2026-02-25 095318" src="https://github.com/user-attachments/assets/f6716400-f5f5-4e94-9223-929edd3a8cac" />) |
+![home](<img width="1899" height="903" alt="Screenshot 2026-02-25 095223" src="https://github.com/user-attachments/assets/782e7212-c980-42da-b2c8-93e9ff41800c" />) | ![details](<img width="1898" height="905" alt="Screenshot 2026-02-25 095251" src="https://github.com/user-attachments/assets/afaf83d1-1f29-4753-9fb8-509911192387" />) | ![search](<img width="1896" height="898" alt="Screenshot 2026-02-25 095543" src="https://github.com/user-attachments/assets/641876a5-aee2-479c-a8e0-66761ae5f310" />) | ![favorites](<img width="1919" height="911" alt="Screenshot 2026-02-25 095318" src="https://github.com/user-attachments/assets/f6716400-f5f5-4e94-9223-929edd3a8cac" />) |
 
 ---
 
